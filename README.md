@@ -1,3 +1,3 @@
 # FAROS
 
-To be released, pending approval finalization
+To be released soon, pending approval finalization
