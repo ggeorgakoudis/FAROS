@@ -1,3 +1,3 @@
-# FAROS
+# FAROS: A Framework for Benchmarking and Analysis of Compiler Optimization
 
-To be released soon, pending approval finalization
+FAROS has been released under the LLNL workspace at https://github.com/LLNL/FAROS.
